@@ -65,11 +65,6 @@ gcc battleship.c -o battleship
 5. Attack enemy ships
 6. First to sink all ships wins!
 
-## Tips
-- Pay attention to your board layout
-- Try different board sizes for varied gameplay
-- Practice both game modes to improve strategy
-
 ## Supported Platforms
 - Linux (uses `system("clear")`)
 - May require minor modifications for Windows
@@ -77,4 +72,4 @@ gcc battleship.c -o battleship
 
 ## Notes
 - Game uses random seed based on current time
-- Randomized ship placement ensures unique games
+
